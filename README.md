@@ -1,2 +1,9 @@
-# Modified - possibly modernized - cinnamon default shell theme.
-This represents an updated version of the default cinnamon theme, therefore only how I picture it to be. Linux Mint is currently updating the defualt one to their perspective, that's hwre this idea comes from.
+# Canela
+
+This is a simple Cinnamon theme, it includes only the theme for Cinnamon.
+
+This represents my vision of how to modernize the default Cinnamon theme (what was used to create this), after I saw the post in Linux Mint about modernizing the default theme.
+
+It still have a few more things to adjust, but it's mostly done.
+
+Soon I'll place some screenshots here.
